@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on [focustime](https://github.com/adarshnb95/focustime) and [GenAI_ERT](https://github.com/adarshnb95/GenAI_ERT)
 
-- 🌱 I’m currently learning **Kinesis, DynamoDB, AI**
+- 🌱 I’m currently learning **ML, AI, security and Fintech applications**
 
-- 👯 I’m looking to collaborate on [GenAI_ERT](https://github.com/adarshnb95/GenAI_ERT)
+- 👯 I’m looking to collaborate on [GenAI_ERT](https://github.com/adarshnb95/GenAI_ERT) with financial experts, on requirements in the real world and how I can help building them.
 
 - 📫 How to reach me **adarshnb95@gmail.com**
 
