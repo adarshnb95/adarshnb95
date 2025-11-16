@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adarshnb95" alt="adarshnb95" /></a> </p>
 
-- 🔭 I’m currently working on [focustime](https://github.com/adarshnb95/focustime) and [GenAI_ERT](https://github.com/adarshnb95/GenAI_ERT)
+- 🔭 I’m currently working on [AgenticQALite](https://github.com/adarshnb95/AgenticQALite) and [GenAI_ERT](https://github.com/adarshnb95/GenAI_ERT)
 
 - 🌱 I’m currently learning **ML, AI, security and Fintech applications**
 
